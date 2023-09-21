@@ -6,7 +6,7 @@
 
 body {
   cursor: url(./images/cursorIcons/cursor_Default_Gold.png) 3 3, default;
-  /* cursor: url(./images/cursorIcons/cursor_Pointer_Gold.png) 19 15, pointer; */
+  cursor: url(./images/cursorIcons/cursor_Pointer_Gold.png) 19 15, pointer;
 
   overscroll-behavior-y: none;
   background-color: black;
